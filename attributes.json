@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TRẦN THỊ THUỲ NHI",
+    "description": "",
+    "image": "https://leenguyenzz.github.io/mp3/assets/img/1.jpg",
+    "attributes": [
+      {
+        "display_type": "date",
+        "trait_type": "birthday",
+        "value": 846867600
+      },
+      {
+        "trait_type": "Nơi sinh",
+        "value": "Tx. Quảng Trị"
+      },
+      {
+        "trait_type": "Quốc Tịch",
+        "value": "Việt Nam"
+      },
+      {
+        "trait_type": "Tôn giáo",
+        "value": "Thiên Chúa Giáo"
+      }
+    ]
+  }
+]
